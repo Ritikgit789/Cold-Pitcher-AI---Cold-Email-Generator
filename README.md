@@ -1,1 +1,1 @@
-# Cold-Pitcher-AI---Cold-Email-Generator
+# Cold-Pitcher-AI---Cold-Email-Generator 
